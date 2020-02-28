@@ -10,7 +10,7 @@ After performing detailed analysis on the Kickstarter data in excel, one the fin
 
 ![Line Chart Based On Goal Amount](/Users/rashidshamshad/iCloudDrive Desktop/Analysis_Projects/Line Chart - Outcome based on goal.png)
 
-The time of the year the campaign takes place also contributes to its success. Most of the campaigns that did well were launched in the early summer, campaigns taking place in winter time were less successful. The following line chart shows the most successful campaigns were in May.
+The time of the year the campaign takes place also contributes to its success. Most of the campaigns that did well were launched in the early summer, campaigns taking place in winter time were less successful. The following line chart shows that most successful Kickstarter campaigns were started in May. On the other hand, December doesn’t seem like a great time to launch a campaign.
 
 ![Line Chart - outcome based on the launch date]()
 
