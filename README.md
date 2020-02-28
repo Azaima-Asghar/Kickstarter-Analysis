@@ -6,12 +6,14 @@ Louise wants to start a crowdfunding campaign to help fund her play "Fever", wit
 
 ## Results
 
-After performing detailed analysis on the kickstarter data in excel,one the finding was to have a realist goal amount to raise from the campaign makes it prosperous, the follwing line chart shows that the lower goal amounts, the higher the success rate. 
+After performing detailed analysis on the Kickstarter data in excel, one the finding was to have a realist goal amount to raise for the campaign makes it prosperous, the following line chart shows that the lower goal amounts, the higher the success rate.  
 
 ![Line Chart Based On Goal Amount](/Users/rashidshamshad/iCloudDrive Desktop/Analysis_Projects/Line Chart - Outcome based on goal.png)
 
-The the time of the year the campagin takes place also contributes to its success. Most of the campaigns that did well were lauched in the early summer, campaings taking place in winter time were less successful. The follwing line chart shows the most successful campaigns were in May. 
+The time of the year the campaign takes place also contributes to its success. Most of the campaigns that did well were launched in the early summer, campaigns taking place in winter time were less successful. The following line chart shows the most successful campaigns were in May.
 
-One the factor that also affects the success of the fundrasing campagin is the legnth of the campaign, the campaigns with length of 30 days did far better than the campaigns that lasted longer. 
+![Line Chart - outcome based on the launch date]()
 
-Over all 
+One of the factors that also affects the success of the fundraising campaign is the length of the campaign, the campaigns with a length of 30 days did far better than the campaigns that lasted longer.
+
+Over all Louise should try to keep a realistic goal amount she wants to raise for her play "Fever" from the fundraising campaign to have greater chances of success. She should also make her campaign to have a shorter length and she should aim to launch her fundraising campaign in summer time. This will increase the probability that Louise will have a successful campaign. 
