@@ -18,4 +18,4 @@ One of the factors that also affects the success of the fundraising campaign is 
 
 # Summary 
 
-Louise should try to keep a realistic goal amount she wants to raise for her play "Fever" from the fundraising campaign to have greater chances of success. She should also make her campaign to have a shorter length and she should aim to launch her fundraising campaign in summer time. This will increase the probability that Louise will have a successful campaign. 
+I recommendLouise should try to keep a realistic goal amount she wants to raise for her play "Fever" from the fundraising campaign to have greater chances of success. She should also make her campaign to have a shorter length and she should aim to launch her fundraising campaign in summer time. This will increase the probability that Louise will have a successful campaign. 
