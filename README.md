@@ -16,4 +16,6 @@ The time of the year the campaign takes place also contributes to its success. M
 
 One of the factors that also affects the success of the fundraising campaign is the length of the campaign, the campaigns with a length of 30 days did far better than the campaigns that lasted longer.
 
-Over all Louise should try to keep a realistic goal amount she wants to raise for her play "Fever" from the fundraising campaign to have greater chances of success. She should also make her campaign to have a shorter length and she should aim to launch her fundraising campaign in summer time. This will increase the probability that Louise will have a successful campaign. 
+# Summary 
+
+Louise should try to keep a realistic goal amount she wants to raise for her play "Fever" from the fundraising campaign to have greater chances of success. She should also make her campaign to have a shorter length and she should aim to launch her fundraising campaign in summer time. This will increase the probability that Louise will have a successful campaign. 
