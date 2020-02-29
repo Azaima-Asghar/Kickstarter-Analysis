@@ -28,7 +28,7 @@ The time of the year the campaign takes place also contributes to its success. M
 One of the factors that also affects the success of the fundraising campaign is the length of the campaign,the following line chart shows that the campaigns with a length of 30 days did far better than the campaigns that lasted longer or way too shorter. 
 
 
-![Line Chart - outcome based on the launch date](./images/outcome_based_duration.png)
+![Line Chart - outcome based on the launch date](/images/Outcome_based_duration.png)
 
 
 ## Summary 
