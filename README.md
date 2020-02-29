@@ -6,7 +6,8 @@ Louise wants to start a crowdfunding campaign to help fund her play "Fever", wit
 
 ## Results
 
-After performing detailed analysis on the Kickstarter data in excel, one the finding was to have a realist goal amount to raise for the campaign makes it prosperous, the following line chart shows that the lower goal amounts, the higher the success rate.  
+After performing detailed analysis on the Kickstarter data in excel, one the finding was to have a realist goal amount to raise for the campaign makes it prosperous, the following line chart shows that the lower goal amounts, the higher the success rate.
+
 
 ![Line Chart Based On Goal Amount](/Users/rashidshamshad/iCloudDrive Desktop/Analysis_Projects/Line Chart - Outcome based on goal.png)
 
@@ -18,4 +19,4 @@ One of the factors that also affects the success of the fundraising campaign is 
 
 # Summary 
 
-I recommend Louise should try to keep a realistic goal amount she wants to raise for her play "Fever" from the fundraising campaign to have greater chances of success. She should also make her campaign to have a shorter length and she should aim to launch her fundraising campaign in summer time. This will increase the probability that Louise will have a successful campaign. 
+I would recommend Louise should try to keep a realistic goal amount she wants to raise for her play "Fever" from the fundraising campaign to have greater chances of success. She should also make her campaign to have a shorter length and she should aim to launch her fundraising campaign in summer time. This will increase the probability that Louise will have a successful campaign. 
