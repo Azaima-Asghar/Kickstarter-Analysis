@@ -36,7 +36,7 @@ One of the factors that also affects the success of the fundraising campaign is 
 Based on the data analysis performed on the Kickstarter data I would recommend Louise should try to keep a realistic goal amount she wants to raise for her play "Fever" from the fundraising campaign to have greater chances of success. She should also make her campaign to have a shorter length (around 30 days) and she should also aim to launch her fundraising campaign during the summer time (May would be the best month). This will increase the probability that Louise will have a successful fundraising campaign for her play. 
 
 
-### Limitations of the dataset and suggestions
+### Limitations of the dataset and suggestion
 
 The Kickstarter data contains data for the fundraising campaigns that were launched in 2009 to 2017, however, there is no data available for the campaigns that took place in 2018 and 2019. Recent data is missing because of which it is hard to tell if patterns in the data are still the same in todays time or not. (In this data it was visible that play category was pretty successful, but this could have changed now, there is no way to tell since we do not have data for the recent years).
 
