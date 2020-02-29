@@ -8,7 +8,7 @@ Louise wants to start a crowdfunding campaign to help fund her play "Fever", wit
 
 ## Results
 
-After performing detailed analysis on the Kickstarter data in excel, one the finding was to have a realist goal amount to raise for the campaign makes it prosperous, the following line chart shows that the lower goal amounts, the higher the success rate.
+After performing detailed analysis on the Kickstarter data in excel, one of the findings is to have a realist goal amount that needs to be raise from the fundraising campaign. This will make the campaign to be more prosperous, the following line chart shows that lower goal amounts have the higher success rate.
 
 
 ![Line Chart Based On Goal Amount](/Users/rashidshamshad/iCloudDrive Desktop/Analysis_Projects/Line Chart - Outcome based on goal.png)
