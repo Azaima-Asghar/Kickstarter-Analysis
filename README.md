@@ -13,7 +13,7 @@ After performing detailed analysis on the Kickstarter data in excel, one the fin
 
 ![Line Chart Based On Goal Amount](/Users/rashidshamshad/iCloudDrive Desktop/Analysis_Projects/Line Chart - Outcome based on goal.png)
 
-The time of the year the campaign takes place also contributes to its success. Most of the campaigns that did well were launched in the early summer, campaigns taking place in winter time were less successful. The following line chart shows that most successful Kickstarter campaigns were started in May. On the other hand, December doesn’t seem like a great time to launch a campaign.
+The time of the year the campaign takes place also contributes to its success. Most of the campaigns that did well were launched in the early summer, campaigns taking place during the winter time were less successful. The following line chart shows that most successful Kickstarter campaigns were started in May. On the other hand, December doesn’t seem like a great time to launch a campaign.
 
 ![Line Chart - outcome based on the launch date]()
 
@@ -21,4 +21,4 @@ One of the factors that also affects the success of the fundraising campaign is 
 
 # Summary 
 
-I would recommend Louise should try to keep a realistic goal amount she wants to raise for her play "Fever" from the fundraising campaign to have greater chances of success. She should also make her campaign to have a shorter length and she should aim to launch her fundraising campaign in summer time. This will increase the probability that Louise will have a successful campaign. 
+Based on the data analysis performed on the Kickstarter data I would recommend Louise should try to keep a realistic goal amount she wants to raise for her play "Fever" from the fundraising campaign to have greater chances of success. She should also make her campaign to have a shorter length (around 30 days) and she should also aim to launch her fundraising campaign during the summer time (May would be the best month). This will increase the probability that Louise will have a successful fundraising campaign for her play.
