@@ -1,4 +1,3 @@
-### Challenge: 1
 
 # An Analysis of Kickstarter Campaigns
 
